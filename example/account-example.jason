@@ -2,8 +2,8 @@
 {
   "id": 1234,
   "name": "Intell V",
-  "type": "business"
-  "address":
+  "type": "business",
+  "address": "12345 Green st, Boulder, Colorado, 82433
   "airmiles":
   "creationdate":
 }
