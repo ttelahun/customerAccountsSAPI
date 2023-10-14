@@ -1,10 +1,12 @@
 #%RAML 1.0 NamedExample
 account-example:
 
+{
   "id": 1234,
   "name":
   "type":
   "address":
   "air miles":
   "creationdate":
+}
 
