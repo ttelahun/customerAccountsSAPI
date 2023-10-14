@@ -1,5 +1,3 @@
-#%JASON 1.0 NamedExample
-account-example:
 
 {
 
@@ -9,5 +7,5 @@ account-example:
   "address":
   "air miles":
   "creationdate":
-  
+
 }
