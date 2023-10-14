@@ -1,4 +1,4 @@
-#%RAML 1.0 NamedExample
+#%JASON 1.0 NamedExample
 account-example:
 
 {
