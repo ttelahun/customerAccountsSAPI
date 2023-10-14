@@ -6,4 +6,13 @@
   "address": "12345 Green st ,Boulder ,Colorado ,82433 ,USA",
   "airmiles": 1000
   "creationdate": "10/14/2023"
-}
+},
+
+{
+  "id": 1234,
+  "name": "Intell V",
+  "type": "business",
+  "address": "12345 Green st ,Boulder ,Colorado ,82433 ,USA",
+  "airmiles": 1000
+  "creationdate": "10/14/2023"
+},
