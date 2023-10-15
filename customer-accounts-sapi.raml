@@ -14,12 +14,15 @@ title: customer-accounts-SAPI
         body:
           application/json:
             type: Accounts[]
-            example: !include /example/account-example.json
+            example: !include /examples/account-example.json
   post:
     body:
       application/json:
         type: Accounts
-        example: !include /example/account-post-example.json
+        example: !include /examples/account-post-example.json
+    responses:
+      201:
+        body:
           
       
               
