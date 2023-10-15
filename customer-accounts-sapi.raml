@@ -5,7 +5,8 @@ title: customer-accounts-SAPI
   get:
     headers:
       requestor_id:
-        
+        description: The person or system requesting the data
+        displayName: Requestor ID
     queryParameters:
       account_type:
         enum: [personal,business]
