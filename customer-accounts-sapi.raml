@@ -1,6 +1,9 @@
 #%RAML 1.0
 title: customer-accounts-SAPI
 
+types:
+  Accounts: !include /datatype/accounts-datatype.raml
+
 /accounts:
   get:
     headers:
