@@ -6,5 +6,8 @@
   "version": "1.0.0",
   "classifier": "raml",
   "tags": [],
-  "descriptorVersion": "1.0.0"
+  "descriptorVersion": "1.0.0",
+  "organizationId": "e14a7290-9d52-4d19-ab60-01fd406793e9",
+  "apiVersion": "v1",
+  "originalFormatVersion": "1.0"
 }
