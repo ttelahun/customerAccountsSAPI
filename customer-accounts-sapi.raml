@@ -4,6 +4,10 @@ title: customer-accounts-SAPI
 types:
   Accounts: !include /dataType/accounts-dataType.raml
 
+
+  newtype:
+    example: !include /examples/account-example.json
+    items: Accounts
 /accounts:
   get:
     headers:
@@ -18,8 +22,7 @@ types:
       200:
         body:
           application/json:
-            type: Accounts[]
-            example: !include /examples/account-example.json
+            type: newtype
   post:
     body:
       application/json:
