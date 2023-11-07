@@ -1,5 +1,5 @@
 {
-  "main": "customer-accounts-sapi.raml",
+  "main": "customer_accounts_sapi.raml",
   "name": "customer-accounts-SAPI",
   "groupId": "e14a7290-9d52-4d19-ab60-01fd406793e9",
   "assetId": "customer-accounts-sapi",
