@@ -1,7 +1,7 @@
 {
   "main": "customer_accounts_sapi.raml",
   "name": "customer-accounts-SAPI",
-  "groupId": "e14a7290-9d52-4d19-ab60-01fd406793e9",
+  "groupId": "74fa8182-9f3e-4817-a7c9-7db6f8dc3b14",
   "assetId": "customer-accounts-sapi",
   "version": "1.0.0",
   "classifier": "raml",
